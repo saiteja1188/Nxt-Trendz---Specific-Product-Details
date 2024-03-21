@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.similar-product-view {
+  display: flex;
+  justify-content: flex-start;
+}
+.similar-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+.similar-img {
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+}
+.heading {
+  font-size: 18px;
+}
+.rating-similar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
